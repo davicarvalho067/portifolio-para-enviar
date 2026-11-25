@@ -1,0 +1,22 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg2tGyHY_NG8fnswhwXz01GDcWp0HT5iGqXBNXottSPA&s=10);
+text-align: center;
+background-size: cover;
+}
+
+button {
+  background: linear-gradient(135deg, #FFD700, #A020F0) !important;
+  color: rgb(130, 2, 180) !important;
+  border: none !important;
+  border-radius: 8px;
+  padding: 7px 14px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+button:hover,
+.btn:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 10px #A020F088;
+}
+
